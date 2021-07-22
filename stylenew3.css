@@ -1,6 +1,6 @@
 
 @font-face { font-family: alexi; src: url('AlexBrush-Regular.ttf'); } 
-@font-face { font-family: fonty; src: url('calibril.ttf'); } 
+@font-face { font-family: calibril; src: url('calibril.ttf'); } 
 
 
 *{margin:0;padding:0;text-decoration:none}
@@ -148,7 +148,7 @@ height: 48px;
 padding: 0;  }
 .headcentre {
     background-image: url('backcentre-sm.jpg');
-font family:fonty,Arial;
+font family:calibril,Arial;
 font-size:1em;
 font-weight: 500;
 color:#86AA82;
@@ -253,7 +253,7 @@ padding:27px;
 height: 80px;  }
 .headcentre {
     background-image: url('backcentre-md.jpg');
-font family:fonty,Arial;
+font family:calibril,Arial;
 font-size:1.2em;
 font-weight: 500;
 color:#86AA82;
@@ -311,7 +311,7 @@ max-width:100%;
     .col-12 {width: 100%;}
 body {margin:20px; 
 background:#fef;
-font-family:fonty;
+font-family:calibril;
 }
 .title
 {
@@ -366,8 +366,8 @@ height: 120px;
 padding: 0px; }
 .headcentre {
     background-image: url('backcentre-lg.jpg');
-font family:fonty,Arial;
-font-size:1.2em;
+font family: calibril, Arial;
+font-size: 1.2em;
 font-weight: 500;
 color:#86AA82;
 text-align: right;
