@@ -181,7 +181,7 @@ background:#f0f;
 }
 .title
 {
-font-size: 2.2em;
+font-size: 2.25em;
 font-weight: 600;
 width: 100%;
 text-align:center;
@@ -198,7 +198,7 @@ display:none
 display:none; }
 .subtitle
 {
-font-size: 0.7em;
+font-size: 0.8em;
 font-weight: 600;
 width: 100%;
 text-align:center;
@@ -231,7 +231,7 @@ height: 80px;  }
     background-image: url('backcentre-md.jpg');
 font-size:0.95em;
 text-align: center;
-height: 30px;
+height: 50px;
 padding-top:10px; 
 padding-right:0px; }
 
