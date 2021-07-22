@@ -122,6 +122,20 @@ text-decoration:none;
 margin:0 auto;
 padding: 0px 0px 10px 40px;
 }
+
+.pagetitle
+{
+font-size: 2em;
+font-weight: 400;
+width: 100%;
+text-align:left;
+font-family:Alexi,Verdana, Arial, Helvetica, sans-serif;
+color:#86AA82;
+text-decoration:none;
+margin:0 auto;
+padding: 10px 0px 0px 0px;
+}
+
 .desktopview {
 display:none; }
 
