@@ -120,22 +120,22 @@ font-family: Verdana, Arial, Helvetica, sans-serif;
 color:#86AA82;
 text-decoration:none;
 margin:0 auto;
-padding: 0px 0px 0px 40px;
+padding: 0px 0px 10px 40px;
 }
 .desktopview {
 display:none; }
 
 .leftjt {
     background-image: url('backleft-sm.jpg');
-height: 120px;  }
+height: auto;  }
 .rightjt {
     background-image: url('backright-sm.jpg');
-height: 60px;
-padding: 6px;  }
+height: 48px;
+padding: 0;  }
 .headcentre {
     background-image: url('backcentre-sm.jpg');
 font family:fonty,Arial;
-font-size:1.2em;
+font-size:1em;
 font-weight: 500;
 color:#86AA82;
 text-align: center;
