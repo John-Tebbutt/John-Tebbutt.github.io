@@ -6,7 +6,7 @@
 *{margin:0;padding:0;text-decoration:none}
 body{background:#aaa;}
 #header{position:relative;width:100%;background:#6D8F69;}
-nav{position:relative;width:920px;margin:0 auto;}
+nav{position:relative;width:880px;margin:0 auto;}
 #cssmenu,#cssmenu ul,#cssmenu ul li,#cssmenu ul li a,#cssmenu #head-mobile{border:0;list-style:none;line-height:1;display:block;position:relative;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}
 #cssmenu:after,#cssmenu > ul:after{content:".";display:block;clear:both;visibility:hidden;line-height:0;height:0}
 #cssmenu #head-mobile{display:none}
@@ -133,7 +133,8 @@ font-family:Alexi,Verdana, Arial, Helvetica, sans-serif;
 color:#86AA82;
 text-decoration:none;
 margin:0 auto;
-padding: 10px 0px 0px 0px;
+padding: 18px 15px 8px 15px;
+display: inline-block;
 }
 
 .desktopview {
@@ -241,6 +242,7 @@ color:#86AA82;
 text-decoration:none;
 margin:0 auto;
 padding: 20px 0px 0px 20px;
+display: inline-block;
 }
 
 
@@ -348,6 +350,8 @@ color:#86AA82;
 text-decoration:none;
 margin:0 auto;
 padding: 20px 0px 0px 20px;
+display: inline-block;
+
 }
 
 .mobileview {
