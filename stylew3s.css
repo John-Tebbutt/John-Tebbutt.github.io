@@ -42,7 +42,7 @@ body{background:#aaa;}
   border: none;
   outline: none;
   color: white;
-  padding: 4px 16px;
+  padding: 6px 16px;
   background-color: inherit;
   font-family: inherit;
   margin: 0;
@@ -110,9 +110,9 @@ body{background:#aaa;}
     text-align: left;
   }
 }
-
-
-
+@media screen and (max-width: 800px)	{
+#nav {position:relative; width:100%; margin:0 auto;}
+}
 * 
 {
     box-sizing: border-box;
@@ -139,17 +139,25 @@ cursor:url(magnify.cur),auto;
 [class*="col-"] {
     width: 100%;
 }
-#nav {position:relative; width:100%; margin:0 auto;}
-}
-.nav {position:relative; width:100%; margin:0 auto; font-size: 14pt;}
-body {margin:3px; 
+body {
+margin:3px; 
 font-family: calibril;
-background:#f0f;
-line-height: 2;
+background:#f00;
 }
+#nav {
+position:relative; 
+width:100%; 
+margin:0 auto; 
+line-height: 36px;
+}
+
+
+
+
 .title
 {
 font-size: 2.5em;
+line-height: 1;
 width: 100%;
 text-align:center;
 font-family: alexi,Verdana, Arial, Helvetica, sans-serif;
@@ -249,16 +257,15 @@ overflow: hidden;
 body {margin:10px; 
 font-family: calibril;
 background:#f0f;
-line-height: 1.6;
+line-height: 1;
 }
-#nav {position:relative; width:100%; margin:0 auto;}
-.nav {position:relative; max-width:800px; ;margin:0 auto;}
+#nav {line-height: 36px; position:relative; width:600px; max-width:100%; margin:0 auto;}
 
 .title
 {
 font-size: 2.25em;
 font-weight: 400;
-line-height:
+line-height: 1;
 width: 100%;
 text-align:center;
 font-family:Alexi,Verdana, Arial, Helvetica, sans-serif;
@@ -349,7 +356,16 @@ overflow: hidden;
 max-width:100%;
 }
 
+
+
+
 }
+@media screen and (max-width: 800px)	{
+#nav {position:relative; width:100%; margin:0 auto;}
+}
+
+
+
 @media only screen and (min-width: 1000px) {
     /* For desktop: */
     .col-1 {width: 8.33%;}
