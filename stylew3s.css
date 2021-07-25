@@ -216,6 +216,13 @@ text-align: center;
 height: auto;
 padding: 10px 0px 10px 0px;}
 
+.navbar  {
+	width:100%; 
+	margin: 0 auto; 
+	background: linear-gradient(to bottom,  #6D8F69,  #8FA18D);
+
+}
+
 .slideshow {
 height:48px;
 width:280px;
