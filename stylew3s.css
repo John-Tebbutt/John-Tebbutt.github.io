@@ -51,6 +51,8 @@ body{background:#aaa;}
 }
 
 .dropdown-content {
+  font-size: 18px;
+  font-weight: 600;  
   display: none;
   position: absolute;
   background-color: #f9f9f9;
