@@ -10,7 +10,7 @@ body{background:#aaa;}
 
 .topnav {
   overflow: hidden;
-  background-color: #333;
+  background: linear-gradient(to bottom,  #6D8F69,  #8FA18D);
 }
 
 .topnav a {
