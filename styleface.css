@@ -173,10 +173,10 @@ line-height: 0.9;
 width: 100%;
 text-align:center;
 font-family: alexi,Verdana, Arial, Helvetica, sans-serif;
-color:#6D8F69;
+color:#333;
 text-decoration:none;
 margin:0 auto;
-padding: 48px 0px 3px 0px;
+padding: 46px 0px 3px 0px;
 }
 .subtitle
 {
@@ -185,7 +185,7 @@ line-height: 0.9;
 width: 100%;
 text-align:center;
 font-family: Verdana, Arial, Helvetica, sans-serif;
-color:#6D8F69;
+color:#333;
 text-decoration:none;
 margin:0 auto;
 padding: 0px 0px 20px 0px;
@@ -213,7 +213,7 @@ display: inline-block;
 background-size: cover;  }
 .faceplate {
     background-image: url('faceplate-sm.gif');
-  height: 137px;
+  height: 140px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
