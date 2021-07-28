@@ -10,6 +10,7 @@ body{background:#aaa;}
 #nav {position:relative;margin:0 auto;}
 
 .topnav {
+	font-family: bahn;
   overflow: hidden;
   background: linear-gradient(to bottom,  #6D8F69,  #8FA18D);
 }
@@ -21,8 +22,8 @@ body{background:#aaa;}
   text-align: center;
   padding: 0px 16px;
   text-decoration: none;
-  font-size: 18px;
-  font-weight: 600;
+  font-size: 16px;
+  font-weight: 400;
 }
 
 .active {
@@ -40,8 +41,8 @@ body{background:#aaa;}
 }
 
 .dropdown .dropbtn {
-  font-size: 18px;
-  font-weight: 600;  
+  font-size: 16px;
+  font-weight: 400;  
   border: none;
   outline: none;
   color: white;
@@ -53,8 +54,8 @@ body{background:#aaa;}
 }
 
 .dropdown-content {
-  font-size: 18px;
-  font-weight: 600;  
+  font-size: 16px;
+  font-weight: 400;  
   display: none;
   position: absolute;
   background-color: #B6CDB4;
@@ -86,7 +87,7 @@ body{background:#aaa;}
   display: block;
 }
 
-@media screen and (max-width: 850px) {
+@media screen and (max-width: 860px) {
   .topnav a:not(:first-child), .dropdown .dropbtn {
     display: none;
   }
@@ -96,7 +97,7 @@ body{background:#aaa;}
   }
 }
 
-@media screen and (max-width: 850px) {
+@media screen and (max-width: 860px) {
   .topnav.responsive {position: relative;}
   .topnav.responsive .icon {
     position: absolute;
@@ -298,7 +299,7 @@ display:inline;
 display:none; 
 }
 
-#nav {line-height: 36px; position:relative; width:850px; max-width:100%; margin:0 auto;}
+#nav {line-height: 36px; position:relative; width:840px; max-width:100%; margin:0 auto;}
 
 .title
 {
@@ -360,7 +361,7 @@ height: 86px;  }
 .headcentre {
     background-image: url('backcentre-md.jpg');
 font-family: bahn, calibril, Arial;
-font-size:1.1em;
+font-size:1em;
 font-weight: 400;
 color:#6D8F69;
 max-height: auto;
@@ -439,7 +440,7 @@ display:none;
 display:inline; 
 }
 
-#nav {position:relative; width:850px;; margin:0 auto;}
+#nav {position:relative; width:840px;; margin:0 auto;}
 .title
 {
 font-size: 2.8em;
