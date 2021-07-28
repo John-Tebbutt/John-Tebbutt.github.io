@@ -148,7 +148,7 @@ cursor:url(magnify.cur),auto;
 }
 body {
 margin: 3px; 
-font-family: bahn;
+font-family: calibril;
 background:#fef;
 }
 .mobileview {
@@ -286,7 +286,7 @@ overflow: hidden;
     .col-m-11 {width: 91.66%;}
     .col-m-12 {width: 100%;}
 body {margin:10px; 
-font-family: bahn;
+font-family: calibril;
 background:#fef;
 line-height: 1;
 }
@@ -365,7 +365,6 @@ font-family: bahn, calibril, Arial;
 font-size:1.1em;
 font-weight: 400;
 color:#86AA82;
-max-height: auto;
 text-align: center;
 padding-top:10px; 
 padding-right:0px;
@@ -428,7 +427,7 @@ max-width:100%;
     .col-12 {width: 100%;}
 body {margin:20px; 
 background:#fef;
-font-family: bahn;
+font-family: calibril;
 line-height: 1;
 }
 
