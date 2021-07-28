@@ -445,7 +445,7 @@ display:inline;
 #nav {position:relative; width:840px;; margin:0 auto;}
 .title
 {
-font-size: 2.8em;
+font-size: 2.75em;
 font-weight: 500;
 width: 100%;
 text-align:center;
@@ -453,15 +453,15 @@ font-family:Alexi,Verdana, Arial, Helvetica, sans-serif;
 color:#6D8F69;
 text-decoration:none;
 margin:0 auto;
-padding: 65px 0px 0px 190px;
+padding: 68px 0px 0px 190px;
 }
 .subtitle
 {
-font-size: 0.95em;
+font-size: 1em;
 font-weight: 500;
 width: 100%;
 text-align:center;
-font-family: Verdana, Arial, Helvetica, sans-serif;
+font-family: bahn, Verdana, Arial, Helvetica, sans-serif;
 color:#6D8F69;
 text-decoration:none;
 margin:0 auto;
