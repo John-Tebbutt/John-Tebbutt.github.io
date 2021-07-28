@@ -356,12 +356,12 @@ background-size: auto;  }
 .rightjt {
     background-image: url('backright-md.jpg');
 padding:0px;
-height: 100px;  }
+height: 84px;  }
 .headcentre {
     background-image: url('backcentre-md.jpg');
-font-family: calibril, Arial;
-font-size:1.2em;
-font-weight: 500;
+font-family: bahn, calibril, Arial;
+font-size:1em;
+font-weight: 400;
 color:#6D8F69;
 max-height: auto;
 text-align: center;
@@ -369,8 +369,8 @@ padding-top:10px;
 padding-right:0px; }
 
 .slideshow {
-height:98px;
-width: 550px;
+height:80px;
+width: 500px;
 margin:auto;
 padding:2px 0px 0px 0px;
 overflow: hidden;
@@ -379,8 +379,8 @@ max-width:100%;
 }
 
 .slideshow img {
-height:98px;
-width:550px;
+height:80px;
+width:500px;
 border:0;
 display:none;
 padding:2px 0px 0px 0px;
@@ -390,8 +390,8 @@ max-width:100%;
 }
 
 .slideshow img.first {
-height:98px;
-width:550px;
+height:80px;
+width:500px;
 border:0;
 display:block;
 padding:2px 0px 0px 0px;
