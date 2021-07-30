@@ -548,24 +548,15 @@ background-size: auto;  }
 height: 160px; 
 padding: 0px; }
 .headcentre {
-    background-image: url('backcentre-lg.jpg');
-font-family: bahn, calibril, Arial;
-font-size: 1.1em;
-font-weight: 400;
-color:#86AA82;
-text-align: center;
-height: 42px;
-padding-top:9px; 
-padding-right: 10px;
-font-style: italic;
 display: none; }
 .headcentre2 {
 	font-family: bahn, calibril, Arial;
 font-size: 1.1em;
 font-weight: 400;
+font-style: italic;
 color:#86AA82;
 text-align: center;
-line-height:3;
+line-height:2.8;
 display: inline;
 }
 	
