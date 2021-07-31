@@ -493,7 +493,7 @@ font-family:Alexi,Verdana, Arial, Helvetica, sans-serif;
 color:#6D8F69;
 text-decoration:none;
 margin:0 auto;
-padding: 68px 0px 0px 190px;
+padding: 58px 0px 0px 190px;
 }
 .subtitle
 {
@@ -531,7 +531,7 @@ display: inline-block;
 		background-position: top left;
 		background-size:auto;
 		
-height: 200px;  }
+height: 180px;  }
 .faceplate {
     background-image: url('faceplate-lg.gif');
   height: 170px;
@@ -544,14 +544,14 @@ background-size: auto;  }
     background-image: url('back-right-large.jpg');
 	background-position: top right;
 	background-size: auto;
-height: 200px; 
+height: 180px; 
 }
 .scroller {
 	display:none;
 }
 
 .headcentre {
-background: #f7faf7;
+background: #fcfcfc;
 	font-family: bahn, calibril, Arial;
 font-size: 1.25em;
 font-weight: 400;
