@@ -21,7 +21,7 @@ body{background:#aaa;}
 .tech-slideshow > div {
   height: 78px;
   width: 1945px;
-  background: url(scroller2x.png);
+  background: url(scroller2x-compress.png);
   position: absolute;
   top: 0;
   left: 0;
@@ -29,13 +29,13 @@ body{background:#aaa;}
   transform: translate3d(0, 0, 0);
 }
 .tech-slideshow .mover-1 {
-  animation: moveSlideshow 20s linear infinite;
+  animation: moveSlideshow 60s linear infinite;
 }
 .tech-slideshow .mover-2 {
   opacity: 0;
   transition: opacity 0.5s ease-out;
   background-position: 0 -200px;
-  animation: moveSlideshow 20s linear infinite;
+  animation: moveSlideshow 60s linear infinite;
 }
 .tech-slideshow:hover .mover-2 {
   opacity: 0;
