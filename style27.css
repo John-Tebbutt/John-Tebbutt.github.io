@@ -7,14 +7,14 @@
 *{margin:0;padding:0;text-decoration:none}
 body {
 background:#fef;
-font-family:calibril,Verdana, Arial, Helvetica, sans-serif;
+font-family: Tahoma, calibril,Verdana, Arial, Helvetica, sans-serif;
 font-size:100%;
 text-align:justify;
 margin:0;
+height: 100%;
 }
 
 h1,h2,h3 {
-font-size:1em;
 color:#6D8F69;
 text-decoration:none;
 margin-top:0;
@@ -31,6 +31,7 @@ margin-bottom:0;
 
 h1 {
 font-family:alexi,Verdana, Arial, Helvetica, sans-serif;
+font-size: 1.8em;
 color:#6D8F69;
 font-weight:400;
 letter-spacing:0px;
@@ -38,6 +39,7 @@ letter-spacing:0px;
 
 h2 {
 font-family:bahn,Verdana, Arial, Helvetica, sans-serif;
+font-size: 0.9em;
 color:#6D8F69;
 font-weight:400;
 letter-spacing:0px;
@@ -74,6 +76,13 @@ text-decoration:none;
 color:#6D8F69;
 opacity:0.7;
 }
+
+.sectiontext  {
+	font-size: 1.25em;
+	font-family: Tahoma;
+	font-weight: 400:
+}
+	
 
 #header{position:relative;width:100%;background:#6D8F69;}
 #nav {position:relative;margin:0 auto;}
@@ -374,6 +383,7 @@ background: #eee;
 padding: 20px 0px 20px 0px;
 }
 .sectiontext  {
+	font-family: Tahoma, Arial;
 	font-size:1.25em; 
 	padding: 10px 20px 20px 20px;  
 	line-height: 1.4; 
