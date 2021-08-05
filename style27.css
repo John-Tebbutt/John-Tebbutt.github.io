@@ -1,7 +1,7 @@
 
-@font-face { font-family: alexi; src: url('AlexBrush-Regular.ttf'); } 
-@font-face { font-family: bahn; src: url('bahnschrift.ttf'); } 
-@font-face { font-family: calibril; src: url('calibril.ttf'); } 
+@font-face { font-family: alexi; src: url('AlexBrush-Regular.ttf'); font-display: swap;} 
+@font-face { font-family: bahn; src: url('bahnschrift.ttf'); font-display: swap;} 
+@font-face { font-family: calibril; src: url('calibril.ttf'); font-display: swap;} 
 
 
 *{margin:0;padding:0;text-decoration:none}
