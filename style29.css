@@ -7,7 +7,7 @@
 *{margin:0;padding:0;text-decoration:none}
 body {
 background:#fef;
-font-family:Helvetica, Arial, sans-serif;
+font-family:Helvetica, sans-serif;
 font-size:100%;
 text-align:justify;
 margin:0;
@@ -663,7 +663,7 @@ padding: 10px 30px 10px 30px;
 }
 .sectionodd  {
 background: #fff; 
-padding: 10px 30px 10px 30px;
+padding: 30px 30px 30px 30px;
 }
 .sectioneven  {
 background: #f8f8f8; 
