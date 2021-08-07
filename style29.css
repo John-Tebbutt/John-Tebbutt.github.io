@@ -1,7 +1,24 @@
-
-@font-face { font-family: alexi; src: url('AlexBrush-Regular.ttf'); font-display: swap;} 
-@font-face { font-family: bahn; src: url('bahnschrift.ttf'); font-display: swap;} 
-@font-face { font-family: calibril; src: url('calibril.ttf'); font-display: swap;} 
+@font-face {
+  font-family: 'alexi';
+  src: url('fonts/AlexBrush-Regular.woff2') format('woff2'),
+       url('fonts/AlexBrush-Regular.woff') format('woff'),
+       url('fonts/AlexBrush-Regular.ttf') format('truetype');
+	   font-display: swap;
+}
+@font-face {
+  font-family: 'bahn';
+  src: url('fonts/bahnschrift.woff2') format('woff2'),
+       url('fonts/bahnschrift.woff') format('woff'),
+       url('fonts/bahnschrift.ttf') format('truetype');
+	   font-display: swap;
+}
+@font-face {
+  font-family: 'calibril';
+  src: url('fonts/calibril.woff2') format('woff2'),
+       url('fonts/calibril.woff') format('woff'),
+       url('fonts/calibril.ttf') format('truetype');
+	   font-display: swap;
+}
 
 
 *{margin:0;padding:0;text-decoration:none}
@@ -373,7 +390,7 @@ padding: 10px 0px 10px 0px;
 
 }
 .sectioneven  {
-background: #eee; 
+background: #f8f8f8; 
 padding: 20px 0px 20px 0px;
 }
 .sectiontext  {
@@ -506,7 +523,7 @@ background: #fff;
 padding: 20px 20px 20px 20px;
 }
 .sectioneven  {
-background: #eee; 
+background: #f8f8f8; 
 padding: 30px 20px 30px 20px;
 }
 .sectiontext  {
