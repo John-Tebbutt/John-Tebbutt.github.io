@@ -13,12 +13,21 @@
 	   font-display: swap;
 }
 @font-face {
+  font-family: 'opensans';
+  src: url('fonts/OpenSans-Regular.woff2') format('woff2'),
+       url('fonts/OpenSans-Regular.woff') format('woff'),
+       url('fonts/OpenSans-Regular.ttf') format('truetype');
+	   font-display: swap;
+}
+/*
+@font-face {
   font-family: 'calibril';
   src: url('fonts/calibril.woff2') format('woff2'),
        url('fonts/calibril.woff') format('woff'),
        url('fonts/calibril.ttf') format('truetype');
 	   font-display: swap;
 }
+*/
 
 
 *{margin:0;padding:0;text-decoration:none}
@@ -162,7 +171,7 @@ opacity:0.7;
 
 /* MENU BAR STARTS HERE */
 .topnav {
-	font-family: bahn, Arial;
+  font-family: bahn, Arial;
   overflow: hidden;
   background: linear-gradient(to bottom,  #6D8F69,  #8FA18D);
 }
