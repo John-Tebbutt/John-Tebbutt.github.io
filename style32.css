@@ -373,7 +373,7 @@ display: inline-block;
 }
 .sectionodd  {
 background: #fff; 
-padding: 10px 0px 10px 0px;
+padding: 20px 0px 20px 0px;
 
 }
 .sectioneven  {
@@ -382,7 +382,7 @@ padding: 20px 0px 20px 0px;
 }
 .sectiontext  {
 	font-family: opensans,Helvetica,Arial; 
-	font-size:1.25em; 
+	font-size:1.2em; 
 	padding: 10px 20px 20px 20px;  
 	line-height: 1.65; 
 	text-align:justify;
@@ -507,11 +507,11 @@ padding: 20px 20px 20px 20px;
 }
 .sectioneven  {
 background: #f8f8f8; 
-padding: 30px 20px 30px 20px;
+padding: 20px 20px 20px 20px;
 }
 .sectiontext  {
 	font-family: opensans,Helvetica,Arial; 
-	font-size:1.25em; 
+	font-size:1.2em; 
 	padding: 30px 30px 20px 30px;  
 	line-height: 1.65; 
 	text-align:justify;
